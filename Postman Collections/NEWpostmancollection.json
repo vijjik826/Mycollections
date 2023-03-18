@@ -36,7 +36,7 @@
 			"response": []
 		},
 		{
-			"name": "New Request",
+			"name": "Secondrequest",
 			"id": "0d1854b2-160d-41e7-b077-c8b74b32772e",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
