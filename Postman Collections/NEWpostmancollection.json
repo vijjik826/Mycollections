@@ -43,7 +43,8 @@
 			},
 			"request": {
 				"method": "GET",
-				"header": []
+				"header": [],
+				"url": "https://reqres.in/api/users/2"
 			},
 			"response": []
 		}
